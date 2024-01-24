@@ -12,4 +12,7 @@ C:\Users\avinogradova\vs_apps\Fabio_Aufgaben\QuickOrBubbleApp\QuickOrBubbleApp\o
 C:\Users\avinogradova\vs_apps\Fabio_Aufgaben\QuickOrBubbleApp\QuickOrBubbleApp\obj\Debug\net8.0\QuickOrBubbleApp.pdb
 C:\Users\avinogradova\vs_apps\Fabio_Aufgaben\QuickOrBubbleApp\QuickOrBubbleApp\obj\Debug\net8.0\QuickOrBubbleApp.genruntimeconfig.cache
 C:\Users\avinogradova\vs_apps\Fabio_Aufgaben\QuickOrBubbleApp\QuickOrBubbleApp\obj\Debug\net8.0\ref\QuickOrBubbleApp.dll
+<<<<<<< HEAD
 C:\Users\avinogradova\vs_apps\Fabio_Aufgaben\QuickOrBubbleApp\QuickOrBubbleApp\obj\Debug\net8.0\QuickOrBubbleApp.sourcelink.json
+=======
+>>>>>>> 0e4088f7918a638c6817360fede81a84b949b3fd

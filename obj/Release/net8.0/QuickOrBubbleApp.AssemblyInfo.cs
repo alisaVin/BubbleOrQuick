@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickOrBubbleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d045bc23095932ca1718a460d1861565a8aebf53")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+>>>>>>> 0e4088f7918a638c6817360fede81a84b949b3fd
 [assembly: System.Reflection.AssemblyProductAttribute("QuickOrBubbleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickOrBubbleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

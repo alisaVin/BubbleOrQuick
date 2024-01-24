@@ -40,11 +40,15 @@ namespace QuickOrBubbleSort
             {
                 Console.Write("So sieht das nach der Quick-Sorstierung aus: [");
                 Quick quick1 = new Quick();
+<<<<<<< HEAD
                 quick1.QSort(numbersArr, 0, numbersArr.Length - 1);
                 foreach (int i in numbersArr)
                 {
                     Console.Write($"{i} ");
                 }
+=======
+                quick1.QSort(numbersArr); 
+>>>>>>> 0e4088f7918a638c6817360fede81a84b949b3fd
             }
             else
             {
