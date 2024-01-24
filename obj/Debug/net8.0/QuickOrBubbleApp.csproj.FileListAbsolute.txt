@@ -1,0 +1,15 @@
+C:\Users\avinogradova\vs_apps\Fabio_Aufgaben\QuickOrBubbleApp\QuickOrBubbleApp\bin\Debug\net8.0\QuickOrBubbleApp.exe
+C:\Users\avinogradova\vs_apps\Fabio_Aufgaben\QuickOrBubbleApp\QuickOrBubbleApp\bin\Debug\net8.0\QuickOrBubbleApp.deps.json
+C:\Users\avinogradova\vs_apps\Fabio_Aufgaben\QuickOrBubbleApp\QuickOrBubbleApp\bin\Debug\net8.0\QuickOrBubbleApp.runtimeconfig.json
+C:\Users\avinogradova\vs_apps\Fabio_Aufgaben\QuickOrBubbleApp\QuickOrBubbleApp\bin\Debug\net8.0\QuickOrBubbleApp.dll
+C:\Users\avinogradova\vs_apps\Fabio_Aufgaben\QuickOrBubbleApp\QuickOrBubbleApp\bin\Debug\net8.0\QuickOrBubbleApp.pdb
+C:\Users\avinogradova\vs_apps\Fabio_Aufgaben\QuickOrBubbleApp\QuickOrBubbleApp\obj\Debug\net8.0\QuickOrBubbleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avinogradova\vs_apps\Fabio_Aufgaben\QuickOrBubbleApp\QuickOrBubbleApp\obj\Debug\net8.0\QuickOrBubbleApp.AssemblyInfoInputs.cache
+C:\Users\avinogradova\vs_apps\Fabio_Aufgaben\QuickOrBubbleApp\QuickOrBubbleApp\obj\Debug\net8.0\QuickOrBubbleApp.AssemblyInfo.cs
+C:\Users\avinogradova\vs_apps\Fabio_Aufgaben\QuickOrBubbleApp\QuickOrBubbleApp\obj\Debug\net8.0\QuickOrBubbleApp.csproj.CoreCompileInputs.cache
+C:\Users\avinogradova\vs_apps\Fabio_Aufgaben\QuickOrBubbleApp\QuickOrBubbleApp\obj\Debug\net8.0\QuickOrBubbleApp.dll
+C:\Users\avinogradova\vs_apps\Fabio_Aufgaben\QuickOrBubbleApp\QuickOrBubbleApp\obj\Debug\net8.0\refint\QuickOrBubbleApp.dll
+C:\Users\avinogradova\vs_apps\Fabio_Aufgaben\QuickOrBubbleApp\QuickOrBubbleApp\obj\Debug\net8.0\QuickOrBubbleApp.pdb
+C:\Users\avinogradova\vs_apps\Fabio_Aufgaben\QuickOrBubbleApp\QuickOrBubbleApp\obj\Debug\net8.0\QuickOrBubbleApp.genruntimeconfig.cache
+C:\Users\avinogradova\vs_apps\Fabio_Aufgaben\QuickOrBubbleApp\QuickOrBubbleApp\obj\Debug\net8.0\ref\QuickOrBubbleApp.dll
+C:\Users\avinogradova\vs_apps\Fabio_Aufgaben\QuickOrBubbleApp\QuickOrBubbleApp\obj\Debug\net8.0\QuickOrBubbleApp.sourcelink.json
